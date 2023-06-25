@@ -1,5 +1,5 @@
 # riscv_resources
-<h1> Collection of resources I use for exploring RISC-V <\h1>
+Collection of resources I use for exploring RISC-V 
 Introductory: 
 https://www.youtube.com/watch?v=kFT54hO1X8M
 Dev Board Guide: 
