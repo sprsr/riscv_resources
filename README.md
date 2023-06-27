@@ -7,6 +7,8 @@ https://github.com/riscv/riscv-isa-manual <br>
 ssociation for Computing Machinery (ACM) has good talks on RISC-V and other topics.  
 David Patterson has some more great talks. https://www.youtube.com/@TheOfficialACM/videos <br>
 Dev Board Guide: <br>
+Also his book on general comp arch with RISCV focus: <br>
+https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128122757
 https://github.com/area-8051/RISC-V_stuff/blob/master/RISC-V_MCU_development_boards.pdf<br>
 RISCV SBCS with OS Support: <br>
 http://krimsky.net/articles/riscvsbc.html<br>
