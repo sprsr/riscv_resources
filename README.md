@@ -15,3 +15,15 @@ http://krimsky.net/articles/riscvsbc.html<br>
 
 Pinecone/ or other Pine64 resources:<br>
 Vector Database guide: https://docs.pinecone.io/docs/overview <br>
+
+
+
+
+
+
+
+
+
+
+Safety RTOS with mivrv32 chip <br>
+https://riscv.org/blog/2023/06/safety-critical-real-time-operating-system-safertos-available-with-miv_rv32-soft-cpu/ <br>
