@@ -16,7 +16,8 @@ http://krimsky.net/articles/riscvsbc.html<br>
 Pinecone/ or other Pine64 resources:<br>
 Vector Database guide: https://docs.pinecone.io/docs/overview <br>
 
-
+Vision Five 2 <br>
+https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_QSG.pdf
 
 
 
