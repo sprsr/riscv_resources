@@ -4,7 +4,11 @@ Introductory: <br>
 https://www.youtube.com/watch?v=kFT54hO1X8M<br>
 RISC V ISA: <br>
 https://github.com/riscv/riscv-isa-manual <br>
-ssociation for Computing Machinery (ACM) has good talks on RISC-V and other topics.  
+Volume 1 Unprivledged Spec <br>
+https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMAFDQC/riscv-spec-20191213.pdf <br> 
+Volume 2 Spec Privledged <br> 
+https://github.com/riscv/riscv-isa-manual/releases/download/Priv-v1.12/riscv-privileged-20211203.pdf <br>
+Association for Computing Machinery (ACM) has good talks on RISC-V and other topics.  
 David Patterson has some more great talks. https://www.youtube.com/@TheOfficialACM/videos <br>
 Dev Board Guide: <br>
 Also his book on general comp arch with RISCV focus: <br>
