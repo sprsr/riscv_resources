@@ -9,7 +9,6 @@ https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMAFDQC/ris
 Volume 2 Spec Privledged <br> 
 https://github.com/riscv/riscv-isa-manual/releases/download/Priv-v1.12/riscv-privileged-20211203.pdf <br>
 Association for Computing Machinery (ACM) has good high level conversation on RISC-V and other topics.  
-David Patterson has some more talks: <br>
 https://www.youtube.com/@TheOfficialACM/videos <br>
 Dev Board Guide: <br>
 Also his book on general comp arch with RISCV focus: <br>
